@@ -1,4 +1,4 @@
-### Hi there 👋
+### my name is Kency I am 17 years old I am from the Dominican Republic, I study computer science at the Manuel Acevedo Cerrano educational center in La Vega 👋
 
 <!--
 **KencyLG/KencyLG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
